@@ -1,6 +1,6 @@
 /**Escreva um programa que recebe duas notas de um aluno, 
  * calcula a média e imprime se o aluno foi aprovado ou reprovado
- *
+ * considerando que a média para aprovação e maior que 7
  */
 function calculaResultado(notaA,notaB){
     let media = (notaA+notaB)/2
